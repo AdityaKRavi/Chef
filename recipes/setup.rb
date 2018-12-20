@@ -1,4 +1,5 @@
 package 'vim'
+package 'nano'
 package 'tree'
 package 'ntp'
 package 'git'
